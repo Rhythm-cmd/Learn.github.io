@@ -1,0 +1,33 @@
+/* body{
+    text-align: center;
+} */
+
+body {
+    font-family: "Work Sans", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: center;
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden; */
+    
+  }
+.home-btn{
+   background-color: black;
+   /* padding: 15px;
+
+   
+   border-radius: 15px; */
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* a:hover{
+    color: red;
+} */
