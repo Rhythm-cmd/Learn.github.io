@@ -624,6 +624,11 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-social-icons li a i {
   font-size: 20px;
 }
+.fh5co-social-icons li a:hover{
+  color:#000000;
+  zoom: 1.1;
+  
+}
 
 .fh5co-contact-info ul {
   padding: 0;
