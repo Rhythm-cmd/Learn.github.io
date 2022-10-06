@@ -13,6 +13,7 @@ html {
 
 body {
   margin: 0;
+  padding:0;
 }
 
 article,
@@ -165,6 +166,7 @@ html input[disabled] {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
+  border: none;
   padding: 0;
 }
 
